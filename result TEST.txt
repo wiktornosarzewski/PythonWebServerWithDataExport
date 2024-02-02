@@ -1,4 +1,0 @@
-{'first_name': 'test1', 'last_name': 'tester', 'email': 'aaa@aaa.a'}
-{'first_name': 'test2', 'last_name': '2', 'email': '2@b.b'}
-{'first_name': 'Tester3', 'last_name': '3a', 'email': '3@c.c'}
-{'first_name': 'sprawdzam', 'last_name': 'ja', 'email': 'ja@to.ja4'}
