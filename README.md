@@ -1,5 +1,7 @@
 Python Web Server With Data Export 
 
+![WNpyFlaskServerOK](https://github.com/wiktornosarzewski/PythonWebServerWithDataExport/assets/22853678/7cb35e10-867f-413c-8cc0-17b078d1f913)
+
 Python Web Server with data save to txt and export to Excel file (.xlsx) 
 
 1. First run the python file (websiteTest10).
@@ -23,5 +25,7 @@ Note: in the same folder as the python scripts there must be a (e.g. empty) file
 7. Uruchom plik pythona ExportToExcel-wT10, aby wyeksportować dane do Excela.
 
 Uwaga: w tym samym folderze co skrypty pythona musi się znajdować (np. pusty) plik o nazwie result.txt
+
+![WNpyFlask1](https://github.com/wiktornosarzewski/PythonWebServerWithDataExport/assets/22853678/f445400a-0c05-46f8-a73d-0d00da065524)
 
 Wiktor Nosarzewski 2o2o24
